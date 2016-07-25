@@ -1,1 +1,1 @@
-<h3>In this project I will be converts a dollar ammount into the less number of coins needed to create that ammount.</h3>
+<h3>In this project I will be converts a dollar amount into the least number of coins needed to create that ammount.</h3>
