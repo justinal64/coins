@@ -1,21 +1,7 @@
-// Example
-/*
-  Input: 0.67
-  Output:
-  {
-    quarters: 2,
-    dimes: 1,
-    nickels: 1,
-    pennies: 2
-  }
-
-*/
-
 // Prompt user for an ammount
 var amount = prompt("How much money do you have?");
 amount = parseFloat(amount);
 
-// var amount = .92;
 var quarter = 25;
 var dime = 10;
 var nickle = 5;
